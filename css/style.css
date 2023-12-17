@@ -104,11 +104,11 @@ img {
   padding: 0;
   margin: 0;
   width: 340px;
-  max-height: 100px; /* 수정된 부분 */
-  overflow-y: auto; /* 수정된 부분 */
+  max-height: 100px; 
+  overflow-y: auto; 
   position: relative;
   z-index: 2;
-  margin-top: 10px; /* 수정된 부분 */
+  margin-top: 10px; 
 }
 
 #todo-list li {
